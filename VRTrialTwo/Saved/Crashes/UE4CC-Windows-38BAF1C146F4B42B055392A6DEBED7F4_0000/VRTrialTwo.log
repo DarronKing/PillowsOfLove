@@ -1,0 +1,1482 @@
+﻿Log file open, 12/01/17 10:28:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VRTrialTwo
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1134566551) SRandInit(1134566552).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.205887
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.01-17.28.50:518][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.01-17.28.50:518][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.01-17.28.50:539][  0]LogInit: Computer: DESKTOP-2NSGK8G
+[2017.12.01-17.28.50:539][  0]LogInit: User: iking
+[2017.12.01-17.28.50:539][  0]LogInit: CPU Page size=4096, Cores=3
+[2017.12.01-17.28.50:540][  0]LogInit: High frequency timer resolution =3.433592 MHz
+[2017.12.01-17.28.50:540][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.12.01-17.28.50:540][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.01-17.28.50:540][  0]LogMemory: Process Physical Memory: 272.88 MB used, 272.88 MB peak
+[2017.12.01-17.28.50:540][  0]LogMemory: Process Virtual Memory: 269.40 MB used, 269.40 MB peak
+[2017.12.01-17.28.50:540][  0]LogMemory: Physical Memory: 5549.68 MB used,  10798.93 MB free, 16348.62 MB total
+[2017.12.01-17.28.50:540][  0]LogMemory: Virtual Memory: 642.12 MB used,  10798.93 MB free, 134217728.00 MB total
+[2017.12.01-17.28.50:854][  0]LogInit: Using OS detected language (en-US).
+[2017.12.01-17.28.50:854][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.01-17.28.50:859][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.01-17.28.51:457][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.01-17.28.51:905][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.01-17.28.51:925][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2017.12.01-17.28.51:925][  0]LogD3D11RHI:       3051/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.12.01-17.28.51:927][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.01-17.28.51:927][  0]LogD3D11RHI:       0/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.01-17.28.51:927][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.01-17.28.51:936][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.01-17.28.51:936][  0]LogD3D11RHI:     GPU DeviceId: 0x6798 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.01-17.28.51:936][  0]LogWindows: EnumDisplayDevices:
+[2017.12.01-17.28.51:936][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2017.12.01-17.28.51:937][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.01-17.28.51:937][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.01-17.28.51:937][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.01-17.28.51:938][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.01-17.28.51:938][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.01-17.28.51:938][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2017.12.01-17.28.51:938][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2017.12.01-17.28.51:938][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7.2 (internal:22.19.662.4, unified:22.19.662.4)
+[2017.12.01-17.28.51:938][  0]LogD3D11RHI:      Driver Date: 7-20-2017
+[2017.12.01-17.28.51:938][  0]LogRHI: Texture pool is 2136 MB (70% of 3051 MB)
+[2017.12.01-17.28.51:981][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.01-17.28.51:995][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.12.01-17.28.51:996][  0]LogShaderCompilers: Guid format shader working directory is -56 characters bigger than the processId version (../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Intermediate/Shaders/WorkingDirectory/11876/).
+[2017.12.01-17.28.51:996][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/iking/AppData/Local/Temp/UnrealShaderWorkingDir/710D497041295AAC65D92BA2836CA1A1/'.
+[2017.12.01-17.28.51:996][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.01-17.28.53:668][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.01-17.28.53:774][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.01-17.28.53:879][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.01-17.28.53:986][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.01-17.28.54:092][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.01-17.28.54:202][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.01-17.28.54:310][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.01-17.28.54:413][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.01-17.28.54:512][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.01-17.28.54:633][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.01-17.28.54:748][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.01-17.28.54:865][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.01-17.28.54:966][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.01-17.28.55:069][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.01-17.28.55:276][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.01-17.28.55:276][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.01-17.28.55:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.01-17.28.55:462][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.01-17.28.55:627][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.01-17.28.55:689][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.01-17.28.55:799][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.01-17.28.55:901][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.01-17.28.56:000][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.01-17.28.56:099][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.01-17.28.56:099][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.01-17.28.57:077][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.01-17.28.57:262][  0]LogDerivedDataCache: Loaded boot cache 0.18s 92MB C:/Users/iking/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.01-17.28.57:262][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/iking/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.01-17.28.57:262][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.01-17.28.57:262][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.01-17.28.57:262][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.01-17.28.57:262][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.01-17.28.57:289][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.01-17.28.57:301][  0]LogDerivedDataCache: Using Local data cache path C:/Users/iking/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.01-17.28.57:320][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.01-17.28.57:320][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.01-17.28.57:321][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.01-17.28.57:321][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.01-17.28.57:951][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.01-17.28.58:618][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.01-17.28.58:709][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.01-17.28.58:709][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.01-17.28.58:709][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.01-17.28.58:709][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.01-17.28.58:709][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.01-17.28.58:755][  0]LogNetVersion: VRTrialTwo , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2185258889)
+[2017.12.01-17.28.59:019][  0]LogAssetRegistry: FAssetRegistry took 0.0298 seconds to start up
+[2017.12.01-17.28.59:946][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.116944 seconds
+[2017.12.01-17.28.59:955][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.01-17.28.59:955][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.01-17.28.59:955][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.01-17.29.00:119][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.01-17.29.05:485][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.01-17.29.05:574][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.01-17.29.07:057][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.01-17.29.07:951][  0]SourceControl: Source control is disabled
+[2017.12.01-17.29.07:951][  0]SourceControl: Source control is disabled
+[2017.12.01-17.29.08:069][  0]SourceControl: Source control is disabled
+[2017.12.01-17.29.08:190][  0]SourceControl: Source control is disabled
+[2017.12.01-17.29.10:048][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.01-17.29.10:623][  0]LogOcInput: OculusInput pre-init called
+[2017.12.01-17.29.11:285][  0]LogEngine: Initializing Engine...
+[2017.12.01-17.29.17:175][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-CF488433
+[2017.12.01-17.29.17:535][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.01-17.29.17:536][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.01-17.29.17:814][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.01-17.29.17:872][  0]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.29.17:895][  0]LogInit: FAudioDevice initialized.
+[2017.12.01-17.29.18:070][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/iking/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.01-17.29.18:105][  0]LogInit: Texture streaming: Enabled
+[2017.12.01-17.29.18:328][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.01-17.29.18:608][  0]LogInit: Transaction tracking system initialized
+[2017.12.01-17.29.19:297][  0]BlueprintLog: New page: Editor Load
+[2017.12.01-17.29.21:234][  0]LocalizationService: Localization service is disabled
+[2017.12.01-17.29.22:894][  0]LogConsoleResponse: Display: 
+[2017.12.01-17.29.23:205][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.01-17.29.23:205][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.01-17.29.23:205][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.01-17.29.23:577][  0]LogFileCache: Scanning file cache for directory 'C:/Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Content/' took 0.02s
+[2017.12.01-17.29.25:818][  0]SourceControl: Source control is disabled
+[2017.12.01-17.29.25:818][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.01-17.29.25:819][  0]LightingResults: New page: Lighting Build
+[2017.12.01-17.29.25:911][  0]MapCheck: New page: Map Check
+[2017.12.01-17.29.25:911][  0]LightingResults: New page: Lighting Build
+[2017.12.01-17.29.26:338][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.12.01-17.29.26:348][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.01-17.29.26:373][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.01-17.29.26:469][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.531ms to complete.
+[2017.12.01-17.29.26:470][  0]LogFileHelpers: Loading map 'Template_Default' took 0.652
+[2017.12.01-17.29.26:670][  0]LogCollectionManager: Loaded 0 collections in 0.003776 seconds
+[2017.12.01-17.29.26:799][  0]LogFileCache: Scanning file cache for directory 'C:/Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Saved/Collections/' took 0.01s
+[2017.12.01-17.29.26:799][  0]LogFileCache: Scanning file cache for directory 'C:/Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Content/Developers/iking/Collections/' took 0.01s
+[2017.12.01-17.29.26:799][  0]LogFileCache: Scanning file cache for directory 'C:/Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Content/Collections/' took 0.01s
+[2017.12.01-17.29.26:799][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.01-17.29.26:817][  0]LogContentBrowser: Native class hierarchy populated in 0.0179 seconds. Added 2363 classes and 519 folders.
+[2017.12.01-17.29.26:959][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.01-17.29.27:044][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.12.01-17.29.27:148][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.12.01-17.29.27:171][  0]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.01-17.29.27:178][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.01-17.29.27:181][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.01-17.29.27:320][  0]LogRenderer: Reallocating scene render targets to support 960x432 Format 10 NumSamples 1 (Frame:1).
+[2017.12.01-17.29.27:622][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.12.01-17.29.27:622][  0]LogLoad: (Engine Initialization) Total time: 41.69 seconds
+[2017.12.01-17.29.27:622][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.01-17.29.27:622][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.01-17.29.27:634][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.01-17.29.27:656][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.01-17.29.27:721][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.01-17.29.27:776][  2]LogAssetRegistry: Asset discovery search completed in 28.7793 seconds
+[2017.12.01-17.29.27:780][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.01-17.29.27:780][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000106 seconds (updated 0 objects)
+[2017.12.01-17.29.44:658][746]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.01-17.29.44:755][747]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VRTrialTwo
+[2017.12.01-17.29.44:755][747]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.01-17.29.44:756][747]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2017.12.01-17.29.44:756][747]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.01-17.29.44:777][748]LogTemp: BranchPath = DESKTOP-2NSGK8G/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-2NSGK8G/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2017.12.01-17.29.44:785][748]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\iking\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.01-17.29.47:025][904]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_X' for  Get MotionControllerThumbRight_X
+[2017.12.01-17.29.47:026][904]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_Y' for  Get MotionControllerThumbRight_Y
+[2017.12.01-17.29.47:026][904]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_Y' for  Get MotionControllerThumbLeft_Y
+[2017.12.01-17.29.47:026][904]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_X' for  Get MotionControllerThumbLeft_X
+[2017.12.01-17.29.47:026][904]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportRight' for  InputAction TeleportRight
+[2017.12.01-17.29.47:026][904]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportLeft' for  InputAction TeleportLeft
+[2017.12.01-17.29.47:027][904]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'GrabRight' for  InputAction GrabRight
+[2017.12.01-17.29.47:027][904]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'GrabLeft' for  InputAction GrabLeft
+[2017.12.01-17.29.47:040][904]LogBlueprint: Warning: [Compiler MotionControllerPawn] [0061.11] Compile of MotionControllerPawn successful, but with 8 Warning(s) [in 30 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2017.12.01-17.29.51:155][229]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.01-17.30.06:897][589]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.01-17.30.06:959][589]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Map/Lights/Hanging Lights/hangingLight_color' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.12.01-17.30.06:959][589]LogLinker: Warning: Can't find file '/Game/Map/Lights/Hanging Lights/hangingLight_color'
+[2017.12.01-17.30.06:960][589]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Map/Lights/Hanging Lights/hangingLight_color' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.12.01-17.30.06:960][589]LogLinker: Warning: Can't find file for asset '/Game/Map/Lights/Hanging Lights/hangingLight_color' while loading ../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Content/Map/Lights/Hanging_Lights/SM_hangingLights.uasset.
+[2017.12.01-17.30.06:960][589]LoadErrors: Error: /Game/Map/Lights/Hanging_Lights/SM_hangingLights : Can't find file for asset. /Game/Map/Lights/Hanging Lights/hangingLight_color
+[2017.12.01-17.30.06:960][589]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Map/Lights/Hanging Lights/hangingLight_emmission' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.12.01-17.30.06:960][589]LogLinker: Warning: Can't find file '/Game/Map/Lights/Hanging Lights/hangingLight_emmission'
+[2017.12.01-17.30.06:960][589]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Map/Lights/Hanging Lights/hangingLight_emmission' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.12.01-17.30.06:960][589]LogLinker: Warning: Can't find file for asset '/Game/Map/Lights/Hanging Lights/hangingLight_emmission' while loading ../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Content/Map/Lights/Hanging_Lights/SM_hangingLights.uasset.
+[2017.12.01-17.30.06:960][589]LoadErrors: Error: /Game/Map/Lights/Hanging_Lights/SM_hangingLights : Can't find file for asset. /Game/Map/Lights/Hanging Lights/hangingLight_emmission
+[2017.12.01-17.30.06:960][589]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Map/Lights/Hanging Lights/hangingLight_color' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.12.01-17.30.06:960][589]LogLinker: Warning: Can't find file '/Game/Map/Lights/Hanging Lights/hangingLight_color'
+[2017.12.01-17.30.06:960][589]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Map/Lights/Hanging Lights/hangingLight_color' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.12.01-17.30.06:960][589]LogLinker: Warning: Can't find file for asset '/Game/Map/Lights/Hanging Lights/hangingLight_color' while loading ../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Content/Map/Lights/Hanging_Lights/SM_hangingLights.uasset.
+[2017.12.01-17.30.06:961][589]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Map/Lights/Hanging Lights/hangingLight_emmission' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.12.01-17.30.06:961][589]LogLinker: Warning: Can't find file '/Game/Map/Lights/Hanging Lights/hangingLight_emmission'
+[2017.12.01-17.30.06:961][589]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Map/Lights/Hanging Lights/hangingLight_emmission' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.12.01-17.30.06:961][589]LogLinker: Warning: Can't find file for asset '/Game/Map/Lights/Hanging Lights/hangingLight_emmission' while loading ../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Content/Map/Lights/Hanging_Lights/SM_hangingLights.uasset.
+[2017.12.01-17.30.07:059][589]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Map/Lights/Hanging Lights/hangingLight_emmission' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.12.01-17.30.07:059][589]LogLinker: Warning: Can't find file '/Game/Map/Lights/Hanging Lights/hangingLight_emmission'
+[2017.12.01-17.30.07:059][589]LoadErrors: Failed to load /Game/Map/Lights/Hanging Lights/hangingLight_emmission.hangingLight_emmission Referenced by MaterialExpressionTextureSample_34
+[2017.12.01-17.30.07:059][589]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Map/Lights/Hanging Lights/hangingLight_emmission' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.12.01-17.30.07:059][589]LogLinker: Warning: Can't find file for asset '/Game/Map/Lights/Hanging Lights/hangingLight_emmission' while loading NULL.
+[2017.12.01-17.30.07:059][589]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Map/Lights/Hanging Lights/hangingLight_color' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.12.01-17.30.07:060][589]LogLinker: Warning: Can't find file '/Game/Map/Lights/Hanging Lights/hangingLight_color'
+[2017.12.01-17.30.07:060][589]LoadErrors: Failed to load /Game/Map/Lights/Hanging Lights/hangingLight_color.hangingLight_color Referenced by MaterialExpressionTextureSample_35
+[2017.12.01-17.30.07:060][589]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Map/Lights/Hanging Lights/hangingLight_color' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.12.01-17.30.07:060][589]LogLinker: Warning: Can't find file for asset '/Game/Map/Lights/Hanging Lights/hangingLight_color' while loading NULL.
+[2017.12.01-17.30.07:128][589]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.30.07:129][589]LogMaterial: Warning: C:\Users\iking\Documents\Unreal Projects\Masked Entertainment\PillowsOfLove\VRTrialTwo\Content\Map\Lights\Hanging_Lights\SM_hangingLights.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.01-17.30.07:129][589]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.01-17.30.07:139][589]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.30.07:186][589]Cmd: MAP LOAD FILE="../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Content/pillowsOfLove.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.01-17.30.07:186][589]LightingResults: New page: Lighting Build
+[2017.12.01-17.30.07:187][589]LoadErrors: New page: Loading map: pillowsOfLove.umap
+[2017.12.01-17.30.07:188][589]MapCheck: New page: Map Check
+[2017.12.01-17.30.07:188][589]LightingResults: New page: Lighting Build
+[2017.12.01-17.30.07:219][589]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.01-17.30.07:304][589]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.01-17.30.07:419][589]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 115.019ms to complete.
+[2017.12.01-17.30.07:421][589]LogFileHelpers: Loading map 'pillowsOfLove' took 0.236
+[2017.12.01-17.30.14:585][402]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.30.14:731][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.30.14:747][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.30.14:768][402]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:30:14 AM)
+[2017.12.01-17.30.14:794][402]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.30.14:853][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059665s)
+[2017.12.01-17.30.14:854][402]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.30.14:879][402]LogPlayLevel: PIE: World Init took: (0.025404s)
+[2017.12.01-17.30.14:879][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.085516s)
+[2017.12.01-17.30.14:980][402]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.30.14:995][402]LogInit: FAudioDevice initialized.
+[2017.12.01-17.30.15:120][402]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.30.15:222][402]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.30.15
+[2017.12.01-17.30.15:278][402]LogWorld: Bringing up level for play took: 0.058423
+[2017.12.01-17.30.15:560][402]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.12.01-17.30.15:663][402]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove 1.653
+[2017.12.01-17.30.15:664][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.30.15:804][403]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 10 NumSamples 1 (Frame:1).
+[2017.12.01-17.30.59:682][363]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.30.59:941][363]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.31.00:023][364]LogDialogs: Warning: Suppressed: VR Mode enables you to work on your project in virtual reality using motion controllers. This feature is still under development, so you may experience bugs or crashes while using it.
+[2017.12.01-17.31.11:094][290]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2017.12.01-17.31.20:787][ 50]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.31.20:826][ 50]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.31.20:826][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.31.20:826][ 50]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:31:20 AM)
+[2017.12.01-17.31.20:826][ 50]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.31.20:833][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006143s)
+[2017.12.01-17.31.20:834][ 50]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.31.20:834][ 50]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2017.12.01-17.31.20:834][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.007810s)
+[2017.12.01-17.31.20:963][ 50]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.31.20:980][ 50]LogInit: FAudioDevice initialized.
+[2017.12.01-17.31.21:078][ 50]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.31.21:081][ 50]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.31.21
+[2017.12.01-17.31.21:081][ 50]LogWorld: Bringing up level for play took: 0.002240
+[2017.12.01-17.31.21:097][ 50]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove 1.088
+[2017.12.01-17.31.21:098][ 50]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.31.39:648][881]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.31.39:852][881]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.31.42:777][184]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.12.01-17.31.48:358][672]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.01-17.31.49:480][764]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2017.12.01-17.31.54:907][173]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.31.54:937][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.31.54:937][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.31.54:938][173]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:31:54 AM)
+[2017.12.01-17.31.54:938][173]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.31.54:944][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005953s)
+[2017.12.01-17.31.54:945][173]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.31.54:945][173]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2017.12.01-17.31.54:945][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.007560s)
+[2017.12.01-17.31.55:039][173]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.31.55:054][173]LogInit: FAudioDevice initialized.
+[2017.12.01-17.31.55:151][173]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.31.55:154][173]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.31.55
+[2017.12.01-17.31.55:154][173]LogWorld: Bringing up level for play took: 0.002191
+[2017.12.01-17.31.55:169][173]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove 1.16
+[2017.12.01-17.31.55:170][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.32.01:743][467]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.32.01:951][467]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.32.07:193][ 22]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2017.12.01-17.32.09:125][174]Cmd: DELETE
+[2017.12.01-17.32.09:125][174]Cmd: ACTOR DELETE
+[2017.12.01-17.32.09:129][174]LogEditorActor: Deleted Actor: MotionControllerPawn_C
+[2017.12.01-17.32.09:178][174]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2017.12.01-17.32.10:391][303]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.32.10:421][303]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.32.10:422][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.32.10:422][303]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:32:10 AM)
+[2017.12.01-17.32.10:422][303]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.32.10:428][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006285s)
+[2017.12.01-17.32.10:429][303]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.32.10:429][303]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2017.12.01-17.32.10:430][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.007753s)
+[2017.12.01-17.32.10:503][303]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.32.10:518][303]LogInit: FAudioDevice initialized.
+[2017.12.01-17.32.10:616][303]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.32.10:619][303]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.32.10
+[2017.12.01-17.32.10:619][303]LogWorld: Bringing up level for play took: 0.002657
+[2017.12.01-17.32.10:632][303]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove 0.623
+[2017.12.01-17.32.10:633][303]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.32.27:322][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.32.27:524][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.32.41:842][283]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.32.41:875][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.32.41:875][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.32.41:876][283]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:32:41 AM)
+[2017.12.01-17.32.41:876][283]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.32.41:882][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006300s)
+[2017.12.01-17.32.41:883][283]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.32.41:883][283]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2017.12.01-17.32.41:883][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.007850s)
+[2017.12.01-17.32.41:960][283]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.32.41:976][283]LogInit: FAudioDevice initialized.
+[2017.12.01-17.32.42:085][283]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.32.42:089][283]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.32.42
+[2017.12.01-17.32.42:089][283]LogWorld: Bringing up level for play took: 0.002641
+[2017.12.01-17.32.42:104][283]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove 0.094
+[2017.12.01-17.32.42:105][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.32.43:910][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.32.44:119][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.32.51:653][966]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.32.51:685][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.32.51:685][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.32.51:685][966]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:32:51 AM)
+[2017.12.01-17.32.51:685][966]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.32.51:691][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006201s)
+[2017.12.01-17.32.51:693][966]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.32.51:693][966]LogPlayLevel: PIE: World Init took: (0.001599s)
+[2017.12.01-17.32.51:693][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.008179s)
+[2017.12.01-17.32.51:769][966]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.32.51:783][966]LogInit: FAudioDevice initialized.
+[2017.12.01-17.32.51:888][966]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.32.51:891][966]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.32.51
+[2017.12.01-17.32.51:891][966]LogWorld: Bringing up level for play took: 0.002630
+[2017.12.01-17.32.51:904][966]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove -0.106
+[2017.12.01-17.32.51:905][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.32.58:566][265]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.32.58:775][265]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.33.10:673][229]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2017.12.01-17.33.14:905][576]Cmd: DELETE
+[2017.12.01-17.33.14:906][576]Cmd: ACTOR DELETE
+[2017.12.01-17.33.14:908][576]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.33.14:937][576]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2017.12.01-17.33.15:291][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights6)
+[2017.12.01-17.33.16:993][752]Cmd: TRANSACTION UNDO
+[2017.12.01-17.33.16:993][752]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.01-17.33.18:811][939]Cmd: TRANSACTION UNDO
+[2017.12.01-17.33.18:811][939]LogEditorTransaction: Undo Delete Actors
+[2017.12.01-17.33.26:634][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights6)
+[2017.12.01-17.33.30:023][842]Cmd: TRANSACTION UNDO
+[2017.12.01-17.33.30:023][842]LogEditorTransaction: Undo Set Actor Visibility
+[2017.12.01-17.33.51:605][557]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.33.51:635][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.33.51:635][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.33.51:635][557]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:33:51 AM)
+[2017.12.01-17.33.51:635][557]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.33.51:641][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005809s)
+[2017.12.01-17.33.51:642][557]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.33.51:643][557]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2017.12.01-17.33.51:643][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.007652s)
+[2017.12.01-17.33.51:716][557]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.33.51:729][557]LogInit: FAudioDevice initialized.
+[2017.12.01-17.33.51:825][557]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.33.51:829][557]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.33.51
+[2017.12.01-17.33.51:829][557]LogWorld: Bringing up level for play took: 0.002835
+[2017.12.01-17.33.51:843][557]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove -0.167
+[2017.12.01-17.33.51:844][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.33.57:523][821]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.33.57:728][821]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.34.21:415][338]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.34.21:438][338]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2017.12.01-17.34.23:286][514]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.34.23:310][514]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2017.12.01-17.34.25:525][720]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.34.25:549][720]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2017.12.01-17.34.28:742][998]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.34.28:767][998]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2017.12.01-17.34.30:262][160]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.34.30:295][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.34.30:296][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.34.30:296][160]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:34:30 AM)
+[2017.12.01-17.34.30:296][160]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.34.30:302][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005658s)
+[2017.12.01-17.34.30:303][160]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.34.30:303][160]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2017.12.01-17.34.30:303][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.007139s)
+[2017.12.01-17.34.30:372][160]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.34.30:385][160]LogInit: FAudioDevice initialized.
+[2017.12.01-17.34.30:482][160]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.34.30:484][160]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.34.30
+[2017.12.01-17.34.30:485][160]LogWorld: Bringing up level for play took: 0.001955
+[2017.12.01-17.34.30:497][160]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove 0.487
+[2017.12.01-17.34.30:497][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.34.44:147][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.34.44:356][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.34.47:490][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar7)
+[2017.12.01-17.34.48:500][369]Cmd: DELETE
+[2017.12.01-17.34.48:500][369]Cmd: ACTOR DELETE
+[2017.12.01-17.34.48:503][369]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.34.48:525][369]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2017.12.01-17.34.49:869][512]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.34.49:902][512]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.34.49:903][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.34.49:903][512]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:34:49 AM)
+[2017.12.01-17.34.49:903][512]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.34.49:909][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006316s)
+[2017.12.01-17.34.49:910][512]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.34.49:911][512]LogPlayLevel: PIE: World Init took: (0.001456s)
+[2017.12.01-17.34.49:911][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.008165s)
+[2017.12.01-17.34.49:988][512]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.34.50:001][512]LogInit: FAudioDevice initialized.
+[2017.12.01-17.34.50:110][512]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.34.50:113][512]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.34.50
+[2017.12.01-17.34.50:114][512]LogWorld: Bringing up level for play took: 0.002317
+[2017.12.01-17.34.50:126][512]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove 0.117
+[2017.12.01-17.34.50:127][512]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.35.19:668][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.35.19:881][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.35.48:327][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.01-17.36.24:863][  6]LogEditorViewport: Clicking Background
+[2017.12.01-17.36.27:315][248]Cmd: TRANSACTION UNDO
+[2017.12.01-17.36.27:315][248]LogEditorTransaction: Undo Clicking Background
+[2017.12.01-17.36.27:775][270]Cmd: TRANSACTION UNDO
+[2017.12.01-17.36.27:775][270]LogEditorTransaction: Undo Create Actors
+[2017.12.01-17.36.28:470][320]Cmd: TRANSACTION UNDO
+[2017.12.01-17.36.28:470][320]LogEditorTransaction: Undo Create Actors
+[2017.12.01-17.36.31:654][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.01-17.36.37:015][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.01-17.36.43:448][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.01-17.40.11:711][  1]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/iking/Downloads/drive-download-20171201T173840Z-001/hangingLight_color.png)
+[2017.12.01-17.40.11:723][  1]LogTexture: Display: Building textures: hangingLight_color (AutoDXT, 512X512)
+[2017.12.01-17.40.11:840][  1]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/iking/Downloads/drive-download-20171201T173840Z-001/hangingLight_emmission.png)
+[2017.12.01-17.40.11:885][  1]LogTexture: Display: Building textures: hangingLight_emmission (AutoDXT, 512X512)
+[2017.12.01-17.40.15:842][279]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2017.12.01-17.40.15:857][279]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.40.15:857][279]LogMaterial: Warning: /Engine/Transient.SM_hangingLights (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.01-17.40.15:857][279]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.01-17.40.16:249][279]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.01-17.40.16:995][279]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.40.16:996][279]LogMaterial: Warning: /Engine/Transient.SM_hangingLights (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.01-17.40.16:996][279]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.01-17.40.17:045][279]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.40.17:045][279]LogMaterial: Warning: /Engine/Transient.SM_hangingLights (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.01-17.40.17:045][279]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.01-17.40.17:091][279]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_35, compiling. 
+[2017.12.01-17.40.17:138][279]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_34, compiling. 
+[2017.12.01-17.40.17:167][279]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2017.12.01-17.40.17:174][279]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.01-17.40.29:756][915]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.40.29:757][915]LogMaterial: Warning: /Engine/Transient.SM_hangingLights (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.01-17.40.29:757][915]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.01-17.40.30:649][963]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.40.32:546][ 45]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.40.32:585][ 45]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.01-17.40.32:645][ 45]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.01-17.40.34:502][120]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.40.34:543][120]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.12.01-17.40.34:581][120]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.01-17.40.34:623][120]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.12.01-17.40.37:671][259]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.40.37:713][259]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.01-17.40.40:930][409]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.40.40:970][409]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.12.01-17.40.45:570][618]LogMaterialEditor: Saving and Compiling material SM_hangingLights
+[2017.12.01-17.40.46:819][618]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.40.46:909][618]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.40.47:004][618]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.40.47:123][618]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SM_hangingLights, compiling. 
+[2017.12.01-17.40.50:116][618]TextureStreamingBuild: Display: Compiling optional shaders took 3.023 seconds.
+[2017.12.01-17.40.55:558][618]LogSavePackage: Save=24.62ms
+[2017.12.01-17.40.55:558][618]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Saved/SM_hangingLights1F5E9BC145D265D40520348C1F48C93E.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Content/Map/Lights/Hanging_Lights/SM_hangingLights.uasset'
+[2017.12.01-17.40.55:563][618]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Content/Map/Lights/Hanging_Lights/SM_hangingLights.uasset
+[2017.12.01-17.40.55:607][618]MaterialEditorStats: Base pass shader: 109 instructions
+[2017.12.01-17.40.55:607][618]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2017.12.01-17.40.55:607][618]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2017.12.01-17.40.55:607][618]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.01-17.40.55:607][618]MaterialEditorStats: Texture samplers: 5/16
+[2017.12.01-17.40.55:607][618]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.01-17.40.59:029][817]LogSlate: Took 0.000658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.01-17.41.11:735][745]Cmd: TRANSACTION UNDO
+[2017.12.01-17.41.11:735][745]LogEditorTransaction: Undo Move Actors
+[2017.12.01-17.41.11:794][745]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.41.16:688][ 50]MaterialEditorStats: Base pass shader: 109 instructions
+[2017.12.01-17.41.16:688][ 50]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2017.12.01-17.41.16:688][ 50]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2017.12.01-17.41.16:688][ 50]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.01-17.41.16:688][ 50]MaterialEditorStats: Texture samplers: 5/16
+[2017.12.01-17.41.16:688][ 50]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.01-17.41.20:018][387]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.41.24:337][829]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.41.24:405][829]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.01-17.41.29:575][359]MaterialEditorStats: Base pass shader: 108 instructions
+[2017.12.01-17.41.29:575][359]MaterialEditorStats: Base pass shader with Surface Lightmap: 125 instructions
+[2017.12.01-17.41.29:575][359]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2017.12.01-17.41.29:575][359]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.01-17.41.29:575][359]MaterialEditorStats: Texture samplers: 4/16
+[2017.12.01-17.41.29:575][359]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.01-17.41.38:918][436]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.41.43:600][914]MaterialEditorStats: Base pass shader: 107 instructions
+[2017.12.01-17.41.43:600][914]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2017.12.01-17.41.43:600][914]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2017.12.01-17.41.43:600][914]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.01-17.41.43:601][914]MaterialEditorStats: Texture samplers: 4/16
+[2017.12.01-17.41.43:601][914]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.01-17.41.48:306][469]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.41.53:130][990]MaterialEditorStats: Base pass shader: 107 instructions
+[2017.12.01-17.41.53:130][990]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2017.12.01-17.41.53:130][990]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2017.12.01-17.41.53:130][990]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.01-17.41.53:130][990]MaterialEditorStats: Texture samplers: 4/16
+[2017.12.01-17.41.53:131][990]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.01-17.42.10:075][974]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.42.10:124][974]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.42.10:191][974]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.12.01-17.42.15:540][540]MaterialEditorStats: Base pass shader: 107 instructions
+[2017.12.01-17.42.15:540][540]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2017.12.01-17.42.15:540][540]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2017.12.01-17.42.15:540][540]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.01-17.42.15:540][540]MaterialEditorStats: Texture samplers: 4/16
+[2017.12.01-17.42.15:540][540]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.01-17.42.19:451][989]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.42.23:729][458]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.42.29:208][ 35]MaterialEditorStats: Base pass shader: 107 instructions
+[2017.12.01-17.42.29:208][ 35]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2017.12.01-17.42.29:208][ 35]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2017.12.01-17.42.29:208][ 35]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.01-17.42.29:208][ 35]MaterialEditorStats: Texture samplers: 4/16
+[2017.12.01-17.42.29:208][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.01-17.42.30:376][166]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.42.35:275][707]MaterialEditorStats: Base pass shader: 110 instructions
+[2017.12.01-17.42.35:275][707]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2017.12.01-17.42.35:275][707]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2017.12.01-17.42.35:275][707]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.01-17.42.35:275][707]MaterialEditorStats: Texture samplers: 5/16
+[2017.12.01-17.42.35:275][707]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.01-17.42.43:312][534]LogMaterialEditor: Saving and Compiling material SM_hangingLights
+[2017.12.01-17.42.44:287][534]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.42.44:365][534]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.42.44:453][534]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.42.44:577][534]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SM_hangingLights, compiling. 
+[2017.12.01-17.42.47:651][534]TextureStreamingBuild: Display: Compiling optional shaders took 3.107 seconds.
+[2017.12.01-17.42.52:850][534]LogSavePackage: Save=25.05ms
+[2017.12.01-17.42.52:850][534]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Saved/SM_hangingLightsD95CA231401354FF7086C0B98B943B8B.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Content/Map/Lights/Hanging_Lights/SM_hangingLights.uasset'
+[2017.12.01-17.42.52:855][534]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Content/Map/Lights/Hanging_Lights/SM_hangingLights.uasset
+[2017.12.01-17.43.02:789][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mainBeam2)
+[2017.12.01-17.43.03:397][411]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2017.12.01-17.43.04:377][489]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.01-17.43.06:682][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.12.01-17.43.18:923][787]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.43.22:342][140]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.43.22:387][140]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.01-17.43.25:534][465]LogMaterialEditor: Saving and Compiling material SM_hangingLights
+[2017.12.01-17.43.26:948][465]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.43.27:051][465]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.43.27:146][465]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.43.27:266][465]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SM_hangingLights, compiling. 
+[2017.12.01-17.43.30:729][465]TextureStreamingBuild: Display: Compiling optional shaders took 3.494 seconds.
+[2017.12.01-17.43.35:989][465]LogSavePackage: Save=23.68ms
+[2017.12.01-17.43.35:990][465]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Saved/SM_hangingLightsBD49B22D45D124BEDD1773A6566F9CEE.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Content/Map/Lights/Hanging_Lights/SM_hangingLights.uasset'
+[2017.12.01-17.43.35:996][465]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Content/Map/Lights/Hanging_Lights/SM_hangingLights.uasset
+[2017.12.01-17.43.36:011][465]MaterialEditorStats: Base pass shader: 108 instructions
+[2017.12.01-17.43.36:011][465]MaterialEditorStats: Base pass shader with Surface Lightmap: 125 instructions
+[2017.12.01-17.43.36:011][465]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2017.12.01-17.43.36:011][465]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.01-17.43.36:011][465]MaterialEditorStats: Texture samplers: 4/16
+[2017.12.01-17.43.36:011][465]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.01-17.43.39:389][802]LogSavePackage: Save=206.33ms
+[2017.12.01-17.43.39:389][802]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Saved/pillowsOfLove_Auto1627016344327351D62493AB3320F6736.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Saved/Autosaves/Game/pillowsOfLove_Auto1.umap'
+[2017.12.01-17.43.39:391][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Saved/Autosaves/Game/pillowsOfLove_Auto1.umap
+[2017.12.01-17.43.39:399][802]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/pillowsOfLove' took 0.312
+[2017.12.01-17.43.39:399][802]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.312
+[2017.12.01-17.43.39:403][802]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/Lights/Hanging_Lights/hangingLight_color] ([1] browsable assets)...
+[2017.12.01-17.43.39:417][802]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Map/Lights/Hanging_Lights/hangingLight_color.hangingLight_color]
+[2017.12.01-17.43.39:417][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/Lights/Hanging_Lights/hangingLight_color]
+[2017.12.01-17.43.39:435][802]LogSavePackage: Save=13.92ms
+[2017.12.01-17.43.39:435][802]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Saved/hangingLight_color_Auto1CDCDCB774B36EAA20186D7A8CBE59F54.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Saved/Autosaves/Game/Map/Lights/Hanging_Lights/hangingLight_color_Auto1.uasset'
+[2017.12.01-17.43.39:437][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Saved/Autosaves/Game/Map/Lights/Hanging_Lights/hangingLight_color_Auto1.uasset
+[2017.12.01-17.43.39:438][802]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/Lights/Hanging_Lights/hangingLight_emmission] ([1] browsable assets)...
+[2017.12.01-17.43.39:451][802]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Map/Lights/Hanging_Lights/hangingLight_emmission.hangingLight_emmission]
+[2017.12.01-17.43.39:451][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/Lights/Hanging_Lights/hangingLight_emmission]
+[2017.12.01-17.43.39:466][802]LogSavePackage: Save=12.31ms
+[2017.12.01-17.43.39:466][802]LogSavePackage: Moving '../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Saved/hangingLight_emmission_Auto1CBB293AC489C0B7D500F528EAEDF3E95.tmp' to '../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Saved/Autosaves/Game/Map/Lights/Hanging_Lights/hangingLight_emmission_Auto1.uasset'
+[2017.12.01-17.43.39:469][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iking/Documents/Unreal Projects/Masked Entertainment/PillowsOfLove/VRTrialTwo/Saved/Autosaves/Game/Map/Lights/Hanging_Lights/hangingLight_emmission_Auto1.uasset
+[2017.12.01-17.43.39:469][802]LogFileHelpers: Auto-saving content packages took 0.067
+[2017.12.01-17.43.42:675][ 59]LogEditorViewport: Clicking Background
+[2017.12.01-17.43.56:641][626]LogDialogs: Warning: Suppressed: VR Mode enables you to work on your project in virtual reality using motion controllers. This feature is still under development, so you may experience bugs or crashes while using it.
+[2017.12.01-17.44.17:147][814]LogEditorViewport: Clicking Background
+[2017.12.01-17.44.19:972][ 17]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.44.20:002][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.44.20:002][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.44.20:003][ 17]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:44:20 AM)
+[2017.12.01-17.44.20:003][ 17]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.44.20:008][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005183s)
+[2017.12.01-17.44.20:009][ 17]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.44.20:010][ 17]LogPlayLevel: PIE: World Init took: (0.001432s)
+[2017.12.01-17.44.20:010][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.007161s)
+[2017.12.01-17.44.20:106][ 17]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.44.20:121][ 17]LogInit: FAudioDevice initialized.
+[2017.12.01-17.44.20:228][ 17]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.44.20:231][ 17]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.44.20
+[2017.12.01-17.44.20:231][ 17]LogWorld: Bringing up level for play took: 0.001996
+[2017.12.01-17.44.20:244][ 17]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove 0.234
+[2017.12.01-17.44.20:244][ 17]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.45.15:726][731]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.45.15:933][731]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.45.45:447][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.12.01-17.46.12:789][414]LogDialogs: Warning: Suppressed: VR Mode enables you to work on your project in virtual reality using motion controllers. This feature is still under development, so you may experience bugs or crashes while using it.
+[2017.12.01-17.46.20:959][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.12.01-17.46.27:887][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.12.01-17.46.32:171][737]MapCheck: New page: Map Check
+[2017.12.01-17.46.32:191][737]LightingResults: New page: Lighting Build - Dec 1, 2017, 3:46:32 AM
+[2017.12.01-17.46.32:258][737]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.01-17.46.32:372][737]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.01-17.46.32:387][737]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.01-17.46.32:901][737]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.01-17.46.32:901][737]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11876
+[2017.12.01-17.46.35:326][737]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.12.01-17.46.35:326][737]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.01-17.46.35:326][737]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.01-17.46.35:326][737]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.01-17.46.35:326][737]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.01-17.46.35:326][737]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.01-17.46.35:519][737]LogEditorBuildUtils: Build time 0:03
+[2017.12.01-17.46.35:580][737]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer SM_hangingLights, compiling. 
+[2017.12.01-17.46.35:611][737]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer SM_hangingLights, compiling. 
+[2017.12.01-17.46.42:808][983]Job is a success!
+[2017.12.01-17.46.43:203][984]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2017.12.01-17.46.43:203][984]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.12.01-17.46.43:203][984]LogVolumetricLightmapImport:      BrickData 25x5x5 = 0.0Mb
+[2017.12.01-17.46.43:203][984]LogVolumetricLightmapImport:      Bricks at Level
+[2017.12.01-17.46.43:203][984]LogVolumetricLightmapImport:          0: 20.0% covering 100.0% of volume
+[2017.12.01-17.46.43:203][984]LogVolumetricLightmapImport:          1: 80.0% covering 6.3% of volume
+[2017.12.01-17.46.43:203][984]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.12.01-17.46.43:235][984]LightingResults: Error: SpotLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.12.01-17.46.43:235][984]LightingResults: Error: SpotLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.12.01-17.46.43:235][984]LightingResults: Error: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.12.01-17.46.43:236][984]LightingResults: Error: SpotLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.12.01-17.46.43:449][984]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2017.12.01-17.46.43:449][984]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2017.12.01-17.46.43:552][984]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X128)
+[2017.12.01-17.46.43:592][984]Lightmass on DESKTOP-2NSGK8G: 6.20 sec total, 208 ms importing, 39 ms setup, 938 ms photons, 4.97 sec processing, 0 ms extra exporting [24/24 mappings]. Threads: 24.8 sec total, 13.3 sec processing.
+[2017.12.01-17.46.43:641][984]LogStaticLightingSystem: Illumination: 11.1 sec (209 ms encoding lightmaps, 96 ms encoding shadowmaps)
+[2017.12.01-17.46.43:641][984]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.12.01-17.46.43:641][984]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.12.01-17.46.44:334][984]DumpUnbuiltLightIteractions
+[2017.12.01-17.46.44:334][984]Lights with unbuilt interactions: 0
+[2017.12.01-17.46.44:334][984]
+[2017.12.01-17.46.44:334][984]Primitives with unbuilt interactions: 0
+[2017.12.01-17.46.44:348][985]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.01-17.46.44:349][985]MapCheck: New page: pillowsOfLove - Dec 1, 2017, 3:46:44 AM
+[2017.12.01-17.46.44:485][985]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 136.311ms to complete.
+[2017.12.01-17.46.50:723][443]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.46.50:753][443]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.46.50:753][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.46.50:753][443]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:46:50 AM)
+[2017.12.01-17.46.50:753][443]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.46.50:759][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005879s)
+[2017.12.01-17.46.50:760][443]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.46.50:761][443]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2017.12.01-17.46.50:761][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.007487s)
+[2017.12.01-17.46.50:831][443]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.46.50:847][443]LogInit: FAudioDevice initialized.
+[2017.12.01-17.46.50:940][443]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.46.50:942][443]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.46.50
+[2017.12.01-17.46.50:942][443]LogWorld: Bringing up level for play took: 0.001987
+[2017.12.01-17.46.50:956][443]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove 0.946
+[2017.12.01-17.46.50:956][443]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.46.58:525][962]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.46.58:724][962]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.47.07:837][947]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.01-17.47.14:595][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.12.01-17.47.47:527][ 44]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.01-17.47.47:671][ 47]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VRTrialTwo
+[2017.12.01-17.47.47:671][ 47]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.01-17.47.47:671][ 47]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2017.12.01-17.47.47:671][ 47]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.01-17.47.47:671][ 47]LogTemp: BranchPath = DESKTOP-2NSGK8G/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-2NSGK8G/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2017.12.01-17.47.47:706][ 49]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\iking\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.01-17.48.13:569][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.12.01-17.48.25:508][884]MapCheck: New page: Map Check
+[2017.12.01-17.48.25:524][884]LightingResults: New page: Lighting Build - Dec 1, 2017, 3:48:25 AM
+[2017.12.01-17.48.25:540][884]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.01-17.48.25:543][884]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.01-17.48.25:544][884]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.01-17.48.25:545][884]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.01-17.48.25:545][884]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11876
+[2017.12.01-17.48.30:097][884]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.12.01-17.48.30:097][884]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.01-17.48.30:097][884]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.01-17.48.30:097][884]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.01-17.48.30:097][884]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.01-17.48.30:097][884]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.01-17.48.30:236][884]LogEditorBuildUtils: Build time 0:04
+[2017.12.01-17.48.36:065][134]Job is a success!
+[2017.12.01-17.48.36:133][135]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2017.12.01-17.48.36:133][135]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.12.01-17.48.36:133][135]LogVolumetricLightmapImport:      BrickData 25x5x5 = 0.0Mb
+[2017.12.01-17.48.36:133][135]LogVolumetricLightmapImport:      Bricks at Level
+[2017.12.01-17.48.36:133][135]LogVolumetricLightmapImport:          0: 20.0% covering 100.0% of volume
+[2017.12.01-17.48.36:133][135]LogVolumetricLightmapImport:          1: 80.0% covering 6.3% of volume
+[2017.12.01-17.48.36:133][135]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.12.01-17.48.36:158][135]LightingResults: Error: SpotLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.12.01-17.48.36:158][135]LightingResults: Error: SpotLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.12.01-17.48.36:158][135]LightingResults: Error: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.12.01-17.48.36:158][135]LightingResults: Error: SpotLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.12.01-17.48.36:370][135]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2017.12.01-17.48.36:370][135]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2017.12.01-17.48.36:461][135]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X128)
+[2017.12.01-17.48.36:488][135]Lightmass on DESKTOP-2NSGK8G: 5.55 sec total, 201 ms importing, 38 ms setup, 1.00 sec photons, 4.27 sec processing, 0 ms extra exporting [24/24 mappings]. Threads: 21.2 sec total, 12.8 sec processing.
+[2017.12.01-17.48.36:527][135]LogStaticLightingSystem: Illumination: 10.9 sec (213 ms encoding lightmaps, 84 ms encoding shadowmaps)
+[2017.12.01-17.48.36:527][135]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.12.01-17.48.36:527][135]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.12.01-17.48.37:107][135]DumpUnbuiltLightIteractions
+[2017.12.01-17.48.37:107][135]Lights with unbuilt interactions: 0
+[2017.12.01-17.48.37:107][135]
+[2017.12.01-17.48.37:107][135]Primitives with unbuilt interactions: 0
+[2017.12.01-17.48.37:124][136]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.01-17.48.37:124][136]MapCheck: New page: pillowsOfLove - Dec 1, 2017, 3:48:37 AM
+[2017.12.01-17.48.37:236][136]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 111.433ms to complete.
+[2017.12.01-17.48.52:574][343]MapCheck: New page: Map Check
+[2017.12.01-17.48.52:588][343]LightingResults: New page: Lighting Build - Dec 1, 2017, 3:48:52 AM
+[2017.12.01-17.48.52:608][343]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.01-17.48.52:611][343]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.01-17.48.52:611][343]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.01-17.48.52:612][343]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.01-17.48.52:612][343]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11876
+[2017.12.01-17.48.57:121][343]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.12.01-17.48.57:121][343]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.01-17.48.57:121][343]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.01-17.48.57:121][343]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.01-17.48.57:122][343]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.01-17.48.57:122][343]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.01-17.48.57:257][343]LogEditorBuildUtils: Build time 0:04
+[2017.12.01-17.49.02:326][559]Job is a success!
+[2017.12.01-17.49.02:392][560]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2017.12.01-17.49.02:393][560]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.12.01-17.49.02:393][560]LogVolumetricLightmapImport:      BrickData 25x5x5 = 0.0Mb
+[2017.12.01-17.49.02:393][560]LogVolumetricLightmapImport:      Bricks at Level
+[2017.12.01-17.49.02:393][560]LogVolumetricLightmapImport:          0: 20.0% covering 100.0% of volume
+[2017.12.01-17.49.02:393][560]LogVolumetricLightmapImport:          1: 80.0% covering 6.3% of volume
+[2017.12.01-17.49.02:393][560]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.12.01-17.49.02:422][560]LightingResults: Error: SpotLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.12.01-17.49.02:422][560]LightingResults: Error: SpotLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.12.01-17.49.02:422][560]LightingResults: Error: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.12.01-17.49.02:422][560]LightingResults: Error: SpotLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.12.01-17.49.02:821][560]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2017.12.01-17.49.02:821][560]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2017.12.01-17.49.02:969][560]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X128)
+[2017.12.01-17.49.02:985][560]Lightmass on DESKTOP-2NSGK8G: 5.03 sec total, 201 ms importing, 39 ms setup, 802 ms photons, 3.95 sec processing, 0 ms extra exporting [24/24 mappings]. Threads: 19.7 sec total, 10.8 sec processing.
+[2017.12.01-17.49.03:026][560]LogStaticLightingSystem: Illumination: 10.4 sec (400 ms encoding lightmaps, 142 ms encoding shadowmaps)
+[2017.12.01-17.49.03:026][560]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.12.01-17.49.03:026][560]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.12.01-17.49.03:130][560]DumpUnbuiltLightIteractions
+[2017.12.01-17.49.03:130][560]Lights with unbuilt interactions: 0
+[2017.12.01-17.49.03:130][560]
+[2017.12.01-17.49.03:130][560]Primitives with unbuilt interactions: 0
+[2017.12.01-17.49.03:145][561]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.01-17.49.03:145][561]MapCheck: New page: pillowsOfLove - Dec 1, 2017, 3:49:03 AM
+[2017.12.01-17.49.03:268][561]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 123.022ms to complete.
+[2017.12.01-17.49.53:830][866]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.49.53:866][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.49.53:866][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.49.53:866][866]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:49:53 AM)
+[2017.12.01-17.49.53:867][866]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.49.53:872][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005394s)
+[2017.12.01-17.49.53:873][866]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.49.53:874][866]LogPlayLevel: PIE: World Init took: (0.001564s)
+[2017.12.01-17.49.53:874][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.007463s)
+[2017.12.01-17.49.53:941][866]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.49.53:955][866]LogInit: FAudioDevice initialized.
+[2017.12.01-17.49.54:058][866]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.49.54:061][866]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.49.54
+[2017.12.01-17.49.54:061][866]LogWorld: Bringing up level for play took: 0.002202
+[2017.12.01-17.49.54:075][866]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove 0.066
+[2017.12.01-17.49.54:076][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.50.49:617][939]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.50.49:822][939]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.51.03:978][158]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.51.04:008][158]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.51.04:008][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.51.04:008][158]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:51:04 AM)
+[2017.12.01-17.51.04:008][158]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.51.04:014][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006136s)
+[2017.12.01-17.51.04:015][158]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.51.04:016][158]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2017.12.01-17.51.04:016][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.007775s)
+[2017.12.01-17.51.04:081][158]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.51.04:094][158]LogInit: FAudioDevice initialized.
+[2017.12.01-17.51.04:208][158]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.51.04:211][158]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.51.04
+[2017.12.01-17.51.04:211][158]LogWorld: Bringing up level for play took: 0.002531
+[2017.12.01-17.51.04:224][158]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove 0.214
+[2017.12.01-17.51.04:225][158]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.51.41:949][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.51.42:161][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.52.01:001][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights6)
+[2017.12.01-17.52.02:406][898]Cmd: DELETE
+[2017.12.01-17.52.02:406][898]Cmd: ACTOR DELETE
+[2017.12.01-17.52.02:409][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.52.02:430][898]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2017.12.01-17.52.06:064][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights10)
+[2017.12.01-17.52.07:254][410]Cmd: DELETE
+[2017.12.01-17.52.07:254][410]Cmd: ACTOR DELETE
+[2017.12.01-17.52.07:256][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.52.07:280][410]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2017.12.01-17.52.09:968][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights8)
+[2017.12.01-17.52.10:857][784]Cmd: DELETE
+[2017.12.01-17.52.10:857][784]Cmd: ACTOR DELETE
+[2017.12.01-17.52.10:859][784]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.52.10:881][784]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2017.12.01-17.52.13:096][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights)
+[2017.12.01-17.52.13:869][ 97]Cmd: DELETE
+[2017.12.01-17.52.13:869][ 97]Cmd: ACTOR DELETE
+[2017.12.01-17.52.13:872][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.52.13:893][ 97]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2017.12.01-17.52.25:976][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights11)
+[2017.12.01-17.52.34:245][114]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.01-17.52.44:757][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights3)
+[2017.12.01-17.52.44:924][  5]Cmd: DELETE
+[2017.12.01-17.52.44:924][  5]Cmd: ACTOR DELETE
+[2017.12.01-17.52.44:927][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.52.44:950][  5]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2017.12.01-17.52.45:651][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights11)
+[2017.12.01-17.52.45:794][ 91]Cmd: DELETE
+[2017.12.01-17.52.45:794][ 91]Cmd: ACTOR DELETE
+[2017.12.01-17.52.45:796][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.52.45:820][ 91]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2017.12.01-17.52.46:351][151]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight11)
+[2017.12.01-17.52.46:559][163]Cmd: DELETE
+[2017.12.01-17.52.46:559][163]Cmd: ACTOR DELETE
+[2017.12.01-17.52.46:561][163]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.52.46:585][163]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2017.12.01-17.52.47:375][252]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight12)
+[2017.12.01-17.52.47:535][260]Cmd: DELETE
+[2017.12.01-17.52.47:535][260]Cmd: ACTOR DELETE
+[2017.12.01-17.52.47:537][260]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.52.47:560][260]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2017.12.01-17.53.00:582][745]LogDialogs: Warning: Suppressed: VR Mode enables you to work on your project in virtual reality using motion controllers. This feature is still under development, so you may experience bugs or crashes while using it.
+[2017.12.01-17.53.08:898][110]LogEditorViewport: Clicking Background
+[2017.12.01-17.53.19:253][572]LogEditorViewport: Clicking Background
+[2017.12.01-17.53.24:860][820]LogEditorViewport: Clicking Background
+[2017.12.01-17.53.41:718][649]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.53.41:750][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.53.41:750][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.53.41:750][649]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:53:41 AM)
+[2017.12.01-17.53.41:750][649]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.53.41:755][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004206s)
+[2017.12.01-17.53.41:756][649]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.53.41:756][649]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2017.12.01-17.53.41:756][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.006026s)
+[2017.12.01-17.53.41:829][649]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.53.41:844][649]LogInit: FAudioDevice initialized.
+[2017.12.01-17.53.41:952][649]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.53.41:954][649]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.53.41
+[2017.12.01-17.53.41:955][649]LogWorld: Bringing up level for play took: 0.001730
+[2017.12.01-17.53.41:968][649]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove -0.042
+[2017.12.01-17.53.41:968][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.54.02:639][792]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.54.02:850][792]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.54.34:490][130]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.01-17.54.34:490][130]Can't find target actor or component.
+[2017.12.01-17.55.35:213][  3]Cmd: DELETE
+[2017.12.01-17.55.35:213][  3]Cmd: ACTOR DELETE
+[2017.12.01-17.55.35:217][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.55.35:217][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.55.35:217][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.55.35:217][  3]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.55.35:241][  3]LogEditorActor: Deleted 4 Actors (0.028 secs)
+[2017.12.01-17.55.36:284][118]Cmd: DELETE
+[2017.12.01-17.55.36:284][118]Cmd: ACTOR DELETE
+[2017.12.01-17.55.36:287][118]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.55.36:287][118]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.55.36:312][118]LogEditorActor: Deleted 2 Actors (0.028 secs)
+[2017.12.01-17.55.37:263][223]Cmd: DELETE
+[2017.12.01-17.55.37:263][223]Cmd: ACTOR DELETE
+[2017.12.01-17.55.37:266][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.55.37:266][223]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.55.37:288][223]LogEditorActor: Deleted 2 Actors (0.025 secs)
+[2017.12.01-17.55.38:444][342]Cmd: DELETE
+[2017.12.01-17.55.38:444][342]Cmd: ACTOR DELETE
+[2017.12.01-17.55.38:447][342]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.55.38:447][342]LogEditorActor: Deleted Actor: AtmosphericFog
+[2017.12.01-17.55.38:448][342]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.55.38:472][342]LogEditorActor: Deleted 3 Actors (0.028 secs)
+[2017.12.01-17.55.41:696][691]Cmd: TRANSACTION UNDO
+[2017.12.01-17.55.41:696][691]LogEditorTransaction: Undo Marquee Select
+[2017.12.01-17.55.41:709][691]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.55.41:892][702]Cmd: TRANSACTION UNDO
+[2017.12.01-17.55.41:892][702]LogEditorTransaction: Undo Delete Actors
+[2017.12.01-17.55.41:908][702]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.55.42:154][713]Cmd: TRANSACTION UNDO
+[2017.12.01-17.55.42:155][713]LogEditorTransaction: Undo Marquee Select
+[2017.12.01-17.55.42:160][713]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.55.42:460][735]Cmd: TRANSACTION UNDO
+[2017.12.01-17.55.42:460][735]LogEditorTransaction: Undo Delete Actors
+[2017.12.01-17.55.42:491][735]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.55.42:717][748]Cmd: TRANSACTION UNDO
+[2017.12.01-17.55.42:717][748]LogEditorTransaction: Undo Marquee Select
+[2017.12.01-17.55.42:728][748]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.55.43:034][772]Cmd: TRANSACTION UNDO
+[2017.12.01-17.55.43:035][772]LogEditorTransaction: Undo Delete Actors
+[2017.12.01-17.55.43:052][772]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.55.43:366][792]Cmd: TRANSACTION UNDO
+[2017.12.01-17.55.43:367][792]LogEditorTransaction: Undo Marquee Select
+[2017.12.01-17.55.43:375][792]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.55.43:727][821]Cmd: TRANSACTION UNDO
+[2017.12.01-17.55.43:727][821]LogEditorTransaction: Undo Delete Actors
+[2017.12.01-17.55.43:749][821]LogMaterial: Missing cached shader map for material SM_hangingLights, compiling. 
+[2017.12.01-17.55.46:080][997]LogEditorViewport: Clicking Background
+[2017.12.01-17.55.47:184][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights9)
+[2017.12.01-17.55.47:998][147]MaterialEditorStats: Base pass shader: 108 instructions
+[2017.12.01-17.55.47:998][147]MaterialEditorStats: Base pass shader with Surface Lightmap: 125 instructions
+[2017.12.01-17.55.47:998][147]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2017.12.01-17.55.47:998][147]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.01-17.55.47:998][147]MaterialEditorStats: Texture samplers: 4/16
+[2017.12.01-17.55.47:998][147]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.01-17.55.48:342][178]Cmd: DELETE
+[2017.12.01-17.55.48:342][178]Cmd: ACTOR DELETE
+[2017.12.01-17.55.48:345][178]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.55.48:370][178]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2017.12.01-17.55.49:323][288]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2017.12.01-17.55.49:469][295]Cmd: DELETE
+[2017.12.01-17.55.49:469][295]Cmd: ACTOR DELETE
+[2017.12.01-17.55.49:471][295]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.55.49:495][295]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2017.12.01-17.55.50:741][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights7)
+[2017.12.01-17.55.50:860][443]Cmd: DELETE
+[2017.12.01-17.55.50:861][443]Cmd: ACTOR DELETE
+[2017.12.01-17.55.50:863][443]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.55.50:886][443]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2017.12.01-17.55.51:586][521]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight7)
+[2017.12.01-17.55.51:765][531]Cmd: DELETE
+[2017.12.01-17.55.51:765][531]Cmd: ACTOR DELETE
+[2017.12.01-17.55.51:767][531]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.55.51:791][531]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2017.12.01-17.55.52:499][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights2)
+[2017.12.01-17.55.52:617][616]Cmd: DELETE
+[2017.12.01-17.55.52:617][616]Cmd: ACTOR DELETE
+[2017.12.01-17.55.52:619][616]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.55.52:644][616]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2017.12.01-17.55.53:156][675]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight8)
+[2017.12.01-17.55.53:268][679]Cmd: DELETE
+[2017.12.01-17.55.53:268][679]Cmd: ACTOR DELETE
+[2017.12.01-17.55.53:270][679]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.55.53:293][679]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2017.12.01-17.55.54:275][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights5)
+[2017.12.01-17.55.54:391][796]Cmd: DELETE
+[2017.12.01-17.55.54:392][796]Cmd: ACTOR DELETE
+[2017.12.01-17.55.54:394][796]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.55.54:418][796]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2017.12.01-17.55.54:923][854]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight10)
+[2017.12.01-17.55.55:018][857]Cmd: DELETE
+[2017.12.01-17.55.55:018][857]Cmd: ACTOR DELETE
+[2017.12.01-17.55.55:020][857]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.55.55:045][857]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2017.12.01-17.55.56:025][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights4)
+[2017.12.01-17.55.56:161][976]Cmd: DELETE
+[2017.12.01-17.55.56:161][976]Cmd: ACTOR DELETE
+[2017.12.01-17.55.56:163][976]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.01-17.55.56:188][976]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2017.12.01-17.55.56:761][ 41]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2017.12.01-17.55.56:885][ 47]Cmd: DELETE
+[2017.12.01-17.55.56:885][ 47]Cmd: ACTOR DELETE
+[2017.12.01-17.55.56:886][ 47]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-17.55.56:911][ 47]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2017.12.01-17.55.57:712][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights12)
+[2017.12.01-17.56.02:868][610]LogEditorViewport: Clicking Background
+[2017.12.01-17.56.03:677][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights12)
+[2017.12.01-17.56.06:765][961]LogEditorViewport: Clicking Background
+[2017.12.01-17.56.07:896][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights12)
+[2017.12.01-17.56.19:119][ 95]LogEditorViewport: Clicking Background
+[2017.12.01-17.56.21:262][346]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2017.12.01-17.56.27:480][887]LogEditorViewport: Clicking Background
+[2017.12.01-17.56.57:262][210]MapCheck: New page: Map Check
+[2017.12.01-17.56.57:278][210]LightingResults: New page: Lighting Build - Dec 1, 2017, 3:56:57 AM
+[2017.12.01-17.56.57:293][210]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.01-17.56.57:296][210]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.01-17.56.57:296][210]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.01-17.56.57:297][210]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.01-17.56.57:297][210]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11876
+[2017.12.01-17.57.01:808][210]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.12.01-17.57.01:808][210]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.01-17.57.01:808][210]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.01-17.57.01:808][210]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.01-17.57.01:808][210]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.01-17.57.01:808][210]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.01-17.57.01:945][210]LogEditorBuildUtils: Build time 0:04
+[2017.12.01-17.57.05:857][450]Job is a success!
+[2017.12.01-17.57.05:912][451]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2017.12.01-17.57.05:912][451]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.12.01-17.57.05:912][451]LogVolumetricLightmapImport:      BrickData 25x5x5 = 0.0Mb
+[2017.12.01-17.57.05:912][451]LogVolumetricLightmapImport:      Bricks at Level
+[2017.12.01-17.57.05:912][451]LogVolumetricLightmapImport:          0: 20.0% covering 100.0% of volume
+[2017.12.01-17.57.05:912][451]LogVolumetricLightmapImport:          1: 80.0% covering 6.3% of volume
+[2017.12.01-17.57.05:912][451]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.12.01-17.57.06:128][451]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2017.12.01-17.57.06:128][451]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2017.12.01-17.57.06:173][451]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X128)
+[2017.12.01-17.57.06:187][451]Lightmass on DESKTOP-2NSGK8G: 3.53 sec total, 204 ms importing, 38 ms setup, 556 ms photons, 2.70 sec processing, 0 ms extra exporting [13/13 mappings]. Threads: 13.4 sec total, 6.91 sec processing.
+[2017.12.01-17.57.06:224][451]LogStaticLightingSystem: Illumination: 8.92 sec (162 ms encoding lightmaps, 79 ms encoding shadowmaps)
+[2017.12.01-17.57.06:224][451]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.12.01-17.57.06:224][451]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.12.01-17.57.06:811][451]DumpUnbuiltLightIteractions
+[2017.12.01-17.57.06:811][451]Lights with unbuilt interactions: 0
+[2017.12.01-17.57.06:811][451]
+[2017.12.01-17.57.06:811][451]Primitives with unbuilt interactions: 0
+[2017.12.01-17.57.06:822][452]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.01-17.57.06:822][452]MapCheck: New page: pillowsOfLove - Dec 1, 2017, 3:57:06 AM
+[2017.12.01-17.57.06:945][452]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 122.708ms to complete.
+[2017.12.01-17.57.09:780][767]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.01-17.57.09:781][767]Can't find target actor or component.
+[2017.12.01-17.57.21:288][ 93]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.57.21:318][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.57.21:318][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.57.21:318][ 93]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:57:21 AM)
+[2017.12.01-17.57.21:318][ 93]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.57.21:322][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003721s)
+[2017.12.01-17.57.21:323][ 93]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.57.21:323][ 93]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2017.12.01-17.57.21:324][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.005799s)
+[2017.12.01-17.57.21:413][ 93]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.57.21:427][ 93]LogInit: FAudioDevice initialized.
+[2017.12.01-17.57.21:523][ 93]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.57.21:525][ 93]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.57.21
+[2017.12.01-17.57.21:525][ 93]LogWorld: Bringing up level for play took: 0.001312
+[2017.12.01-17.57.21:538][ 93]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove -0.472
+[2017.12.01-17.57.21:538][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.57.28:753][731]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.57.28:954][731]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.57.43:445][788]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.01-17.57.59:427][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (supportBeam2)
+[2017.12.01-17.58.01:575][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights12)
+[2017.12.01-17.58.28:496][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights12)
+[2017.12.01-17.58.55:748][894]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.58.55:779][894]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.58.55:779][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.58.55:779][894]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:58:55 AM)
+[2017.12.01-17.58.55:779][894]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.58.55:783][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003809s)
+[2017.12.01-17.58.55:784][894]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.58.55:784][894]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2017.12.01-17.58.55:785][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.005260s)
+[2017.12.01-17.58.55:850][894]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.58.55:865][894]LogInit: FAudioDevice initialized.
+[2017.12.01-17.58.55:962][894]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.58.55:965][894]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.58.55
+[2017.12.01-17.58.55:966][894]LogWorld: Bringing up level for play took: 0.002164
+[2017.12.01-17.58.55:980][894]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove -0.03
+[2017.12.01-17.58.55:980][894]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.59.21:272][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.59.21:467][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.59.21:519][671]LogDialogs: Warning: Suppressed: VR Mode enables you to work on your project in virtual reality using motion controllers. This feature is still under development, so you may experience bugs or crashes while using it.
+[2017.12.01-17.59.32:792][621]MapCheck: New page: Map Check
+[2017.12.01-17.59.32:810][621]LightingResults: New page: Lighting Build - Dec 1, 2017, 3:59:32 AM
+[2017.12.01-17.59.32:827][621]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.01-17.59.32:830][621]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.01-17.59.32:830][621]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.01-17.59.32:831][621]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.01-17.59.32:832][621]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11876
+[2017.12.01-17.59.37:341][621]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.12.01-17.59.37:341][621]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.01-17.59.37:341][621]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.01-17.59.37:341][621]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.01-17.59.37:341][621]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.01-17.59.37:341][621]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.01-17.59.37:483][621]LogEditorBuildUtils: Build time 0:04
+[2017.12.01-17.59.41:509][839]Job is a success!
+[2017.12.01-17.59.41:578][841]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2017.12.01-17.59.41:578][841]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.12.01-17.59.41:578][841]LogVolumetricLightmapImport:      BrickData 25x5x5 = 0.0Mb
+[2017.12.01-17.59.41:578][841]LogVolumetricLightmapImport:      Bricks at Level
+[2017.12.01-17.59.41:578][841]LogVolumetricLightmapImport:          0: 20.0% covering 100.0% of volume
+[2017.12.01-17.59.41:578][841]LogVolumetricLightmapImport:          1: 80.0% covering 6.3% of volume
+[2017.12.01-17.59.41:578][841]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.12.01-17.59.41:794][841]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2017.12.01-17.59.41:794][841]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2017.12.01-17.59.41:919][841]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 512X128)
+[2017.12.01-17.59.41:962][841]Lightmass on DESKTOP-2NSGK8G: 3.72 sec total, 237 ms importing, 43 ms setup, 647 ms photons, 2.74 sec processing, 0 ms extra exporting [14/14 mappings]. Threads: 13.6 sec total, 7.20 sec processing.
+[2017.12.01-17.59.41:971][841]LogStaticLightingSystem: Illumination: 9.13 sec (193 ms encoding lightmaps, 128 ms encoding shadowmaps)
+[2017.12.01-17.59.41:971][841]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.12.01-17.59.41:971][841]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.12.01-17.59.42:348][841]DumpUnbuiltLightIteractions
+[2017.12.01-17.59.42:348][841]Lights with unbuilt interactions: 0
+[2017.12.01-17.59.42:348][841]
+[2017.12.01-17.59.42:348][841]Primitives with unbuilt interactions: 0
+[2017.12.01-17.59.42:359][842]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.01-17.59.42:359][842]MapCheck: New page: pillowsOfLove - Dec 1, 2017, 3:59:42 AM
+[2017.12.01-17.59.42:477][842]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 118.35ms to complete.
+[2017.12.01-17.59.55:476][302]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-17.59.55:508][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-17.59.55:509][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-17.59.55:509][302]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 3:59:55 AM)
+[2017.12.01-17.59.55:509][302]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-17.59.55:513][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003690s)
+[2017.12.01-17.59.55:514][302]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-17.59.55:514][302]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2017.12.01-17.59.55:514][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.005178s)
+[2017.12.01-17.59.55:580][302]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-17.59.55:594][302]LogInit: FAudioDevice initialized.
+[2017.12.01-17.59.55:695][302]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-17.59.55:697][302]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-10.59.55
+[2017.12.01-17.59.55:697][302]LogWorld: Bringing up level for play took: 0.001341
+[2017.12.01-17.59.55:710][302]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove -0.299
+[2017.12.01-17.59.55:711][302]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.00.15:479][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.00.15:688][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.00.25:233][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights12)
+[2017.12.01-18.00.28:269][372]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight3)
+[2017.12.01-18.00.35:353][ 73]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2017.12.01-18.00.37:305][240]LogEditorViewport: Clicking Background
+[2017.12.01-18.00.38:480][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingLights13)
+[2017.12.01-18.00.39:762][480]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight4)
+[2017.12.01-18.01.19:826][892]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-18.01.19:856][892]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.01.19:856][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-18.01.19:857][892]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 4:01:19 AM)
+[2017.12.01-18.01.19:857][892]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-18.01.19:861][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004029s)
+[2017.12.01-18.01.19:862][892]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-18.01.19:862][892]LogPlayLevel: PIE: World Init took: (0.001254s)
+[2017.12.01-18.01.19:862][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.005660s)
+[2017.12.01-18.01.19:932][892]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-18.01.19:948][892]LogInit: FAudioDevice initialized.
+[2017.12.01-18.01.20:046][892]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-18.01.20:048][892]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-11.01.20
+[2017.12.01-18.01.20:049][892]LogWorld: Bringing up level for play took: 0.001566
+[2017.12.01-18.01.20:062][892]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove 0.052
+[2017.12.01-18.01.20:062][892]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.01.52:349][482]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.01.52:545][482]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.01.56:088][832]MapCheck: New page: Map Check
+[2017.12.01-18.01.56:101][832]LightingResults: New page: Lighting Build - Dec 1, 2017, 4:01:56 AM
+[2017.12.01-18.01.56:115][832]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.01-18.01.56:118][832]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.01-18.01.56:118][832]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.01-18.01.56:119][832]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.01-18.01.56:119][832]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11876
+[2017.12.01-18.02.00:629][832]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.12.01-18.02.00:629][832]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.01-18.02.00:629][832]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.01-18.02.00:629][832]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.01-18.02.00:629][832]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.01-18.02.00:629][832]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.01-18.02.00:766][832]LogEditorBuildUtils: Build time 0:04
+[2017.12.01-18.02.04:582][ 49]Job is a success!
+[2017.12.01-18.02.04:643][ 50]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2017.12.01-18.02.04:643][ 50]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.12.01-18.02.04:643][ 50]LogVolumetricLightmapImport:      BrickData 25x5x5 = 0.0Mb
+[2017.12.01-18.02.04:643][ 50]LogVolumetricLightmapImport:      Bricks at Level
+[2017.12.01-18.02.04:643][ 50]LogVolumetricLightmapImport:          0: 20.0% covering 100.0% of volume
+[2017.12.01-18.02.04:644][ 50]LogVolumetricLightmapImport:          1: 80.0% covering 6.3% of volume
+[2017.12.01-18.02.04:644][ 50]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.12.01-18.02.04:861][ 50]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2017.12.01-18.02.04:861][ 50]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2017.12.01-18.02.04:944][ 50]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 512X128)
+[2017.12.01-18.02.04:959][ 50]Lightmass on DESKTOP-2NSGK8G: 3.50 sec total, 204 ms importing, 38 ms setup, 639 ms photons, 2.59 sec processing, 0 ms extra exporting [14/14 mappings]. Threads: 12.8 sec total, 6.63 sec processing.
+[2017.12.01-18.02.04:993][ 50]LogStaticLightingSystem: Illumination: 8.86 sec (195 ms encoding lightmaps, 84 ms encoding shadowmaps)
+[2017.12.01-18.02.04:993][ 50]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.12.01-18.02.04:994][ 50]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.12.01-18.02.05:636][ 50]DumpUnbuiltLightIteractions
+[2017.12.01-18.02.05:636][ 50]Lights with unbuilt interactions: 0
+[2017.12.01-18.02.05:636][ 50]
+[2017.12.01-18.02.05:636][ 50]Primitives with unbuilt interactions: 0
+[2017.12.01-18.02.05:646][ 51]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.01-18.02.05:647][ 51]MapCheck: New page: pillowsOfLove - Dec 1, 2017, 4:02:05 AM
+[2017.12.01-18.02.05:758][ 51]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 111.794ms to complete.
+[2017.12.01-18.02.06:810][158]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-18.02.06:842][158]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.02.06:842][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-18.02.06:842][158]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 4:02:06 AM)
+[2017.12.01-18.02.06:842][158]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-18.02.06:846][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004051s)
+[2017.12.01-18.02.06:847][158]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-18.02.06:848][158]LogPlayLevel: PIE: World Init took: (0.001401s)
+[2017.12.01-18.02.06:848][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.005877s)
+[2017.12.01-18.02.06:931][158]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-18.02.06:945][158]LogInit: FAudioDevice initialized.
+[2017.12.01-18.02.07:042][158]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-18.02.07:044][158]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-11.02.07
+[2017.12.01-18.02.07:044][158]LogWorld: Bringing up level for play took: 0.001492
+[2017.12.01-18.02.07:057][158]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove 1.048
+[2017.12.01-18.02.07:058][158]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.02.16:847][ 22]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.02.17:014][ 22]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.03.19:506][ 98]MapCheck: New page: Map Check
+[2017.12.01-18.03.19:522][ 98]LightingResults: New page: Lighting Build - Dec 1, 2017, 4:03:19 AM
+[2017.12.01-18.03.19:538][ 98]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.01-18.03.19:541][ 98]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.01-18.03.19:541][ 98]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.01-18.03.19:543][ 98]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.01-18.03.19:543][ 98]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11876
+[2017.12.01-18.03.24:053][ 98]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.12.01-18.03.24:053][ 98]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.01-18.03.24:053][ 98]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.01-18.03.24:053][ 98]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.01-18.03.24:053][ 98]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.01-18.03.24:053][ 98]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.01-18.03.24:195][ 98]LogEditorBuildUtils: Build time 0:04
+[2017.12.01-18.03.27:895][249]Job is a success!
+[2017.12.01-18.03.27:969][251]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2017.12.01-18.03.27:969][251]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.12.01-18.03.27:969][251]LogVolumetricLightmapImport:      BrickData 25x5x5 = 0.0Mb
+[2017.12.01-18.03.27:969][251]LogVolumetricLightmapImport:      Bricks at Level
+[2017.12.01-18.03.27:969][251]LogVolumetricLightmapImport:          0: 20.0% covering 100.0% of volume
+[2017.12.01-18.03.27:969][251]LogVolumetricLightmapImport:          1: 80.0% covering 6.3% of volume
+[2017.12.01-18.03.27:969][251]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.12.01-18.03.28:192][251]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2017.12.01-18.03.28:192][251]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2017.12.01-18.03.28:244][251]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 512X128)
+[2017.12.01-18.03.28:284][251]Lightmass on DESKTOP-2NSGK8G: 3.38 sec total, 198 ms importing, 39 ms setup, 665 ms photons, 2.44 sec processing, 0 ms extra exporting [14/14 mappings]. Threads: 12.1 sec total, 6.38 sec processing.
+[2017.12.01-18.03.28:298][251]LogStaticLightingSystem: Illumination: 8.74 sec (207 ms encoding lightmaps, 46 ms encoding shadowmaps)
+[2017.12.01-18.03.28:298][251]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.12.01-18.03.28:299][251]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.12.01-18.03.29:056][251]DumpUnbuiltLightIteractions
+[2017.12.01-18.03.29:056][251]Lights with unbuilt interactions: 0
+[2017.12.01-18.03.29:056][251]
+[2017.12.01-18.03.29:056][251]Primitives with unbuilt interactions: 0
+[2017.12.01-18.03.29:071][252]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.01-18.03.29:071][252]MapCheck: New page: pillowsOfLove - Dec 1, 2017, 4:03:29 AM
+[2017.12.01-18.03.29:187][252]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 115.728ms to complete.
+[2017.12.01-18.03.35:055][737]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-18.03.35:083][737]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.03.35:084][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-18.03.35:084][737]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 4:03:35 AM)
+[2017.12.01-18.03.35:084][737]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-18.03.35:088][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003882s)
+[2017.12.01-18.03.35:089][737]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-18.03.35:089][737]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2017.12.01-18.03.35:089][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.005444s)
+[2017.12.01-18.03.35:156][737]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-18.03.35:170][737]LogInit: FAudioDevice initialized.
+[2017.12.01-18.03.35:270][737]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-18.03.35:272][737]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-11.03.35
+[2017.12.01-18.03.35:272][737]LogWorld: Bringing up level for play took: 0.001388
+[2017.12.01-18.03.35:285][737]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove -0.724
+[2017.12.01-18.03.35:286][737]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.04.01:745][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.04.01:943][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.04.12:908][ 14]MapCheck: New page: Map Check
+[2017.12.01-18.04.12:927][ 14]LightingResults: New page: Lighting Build - Dec 1, 2017, 4:04:12 AM
+[2017.12.01-18.04.12:942][ 14]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.01-18.04.12:945][ 14]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.01-18.04.12:945][ 14]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.01-18.04.12:946][ 14]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.01-18.04.12:947][ 14]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11876
+[2017.12.01-18.04.17:455][ 14]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.12.01-18.04.17:455][ 14]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.01-18.04.17:455][ 14]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.01-18.04.17:455][ 14]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.01-18.04.17:455][ 14]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.01-18.04.17:455][ 14]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.01-18.04.17:594][ 14]LogEditorBuildUtils: Build time 0:04
+[2017.12.01-18.04.21:437][172]Job is a success!
+[2017.12.01-18.04.21:507][174]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2017.12.01-18.04.21:507][174]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.12.01-18.04.21:507][174]LogVolumetricLightmapImport:      BrickData 25x5x5 = 0.0Mb
+[2017.12.01-18.04.21:507][174]LogVolumetricLightmapImport:      Bricks at Level
+[2017.12.01-18.04.21:507][174]LogVolumetricLightmapImport:          0: 20.0% covering 100.0% of volume
+[2017.12.01-18.04.21:507][174]LogVolumetricLightmapImport:          1: 80.0% covering 6.3% of volume
+[2017.12.01-18.04.21:507][174]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.12.01-18.04.21:736][174]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2017.12.01-18.04.21:736][174]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2017.12.01-18.04.21:814][174]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 512X128)
+[2017.12.01-18.04.21:858][174]Lightmass on DESKTOP-2NSGK8G: 3.53 sec total, 201 ms importing, 39 ms setup, 555 ms photons, 2.70 sec processing, 0 ms extra exporting [14/14 mappings]. Threads: 13.4 sec total, 7.05 sec processing.
+[2017.12.01-18.04.21:872][174]LogStaticLightingSystem: Illumination: 8.91 sec (212 ms encoding lightmaps, 74 ms encoding shadowmaps)
+[2017.12.01-18.04.21:872][174]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.12.01-18.04.21:872][174]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.12.01-18.04.22:461][174]DumpUnbuiltLightIteractions
+[2017.12.01-18.04.22:461][174]Lights with unbuilt interactions: 0
+[2017.12.01-18.04.22:461][174]
+[2017.12.01-18.04.22:461][174]Primitives with unbuilt interactions: 0
+[2017.12.01-18.04.22:472][175]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.01-18.04.22:473][175]MapCheck: New page: pillowsOfLove - Dec 1, 2017, 4:04:22 AM
+[2017.12.01-18.04.22:582][175]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 109.622ms to complete.
+[2017.12.01-18.04.23:545][252]LogTemp: Repeating last play command: VR Preview
+[2017.12.01-18.04.23:573][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
+[2017.12.01-18.04.23:574][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-18.04.23:574][252]PIE: New page: PIE session: pillowsOfLove (Dec 1, 2017, 4:04:23 AM)
+[2017.12.01-18.04.23:574][252]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pillowsOfLove
+[2017.12.01-18.04.23:578][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004219s)
+[2017.12.01-18.04.23:580][252]LogAIModule: Creating AISystem for world pillowsOfLove
+[2017.12.01-18.04.23:580][252]LogPlayLevel: PIE: World Init took: (0.001343s)
+[2017.12.01-18.04.23:580][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pillowsOfLove.pillowsOfLove to /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove (0.005958s)
+[2017.12.01-18.04.23:652][252]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-18.04.23:665][252]LogInit: FAudioDevice initialized.
+[2017.12.01-18.04.23:775][252]LogLoad: Game class is 'BP_virtualRealityGM_C'
+[2017.12.01-18.04.23:778][252]LogWorld: Bringing World /Game/UEDPIE_0_pillowsOfLove.pillowsOfLove up for play (max tick rate 0) at 2017.12.01-11.04.23
+[2017.12.01-18.04.23:778][252]LogWorld: Bringing up level for play took: 0.001490
+[2017.12.01-18.04.23:790][252]PIE: Play in editor start time for /Game/UEDPIE_0_pillowsOfLove -0.22
+[2017.12.01-18.04.23:790][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel' has LevelScriptBlueprint '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove' with GeneratedClass '/Game/pillowsOfLove.pillowsOfLove_C' with ClassGeneratedBy '/Game/pillowsOfLove.pillowsOfLove:PersistentLevel.pillowsOfLove'
